@@ -5,6 +5,8 @@ BNDES Chemistry Society Game Department Mount&Blade:WarBand
 
 mod请在releases处下载
 
+安装mod进游戏：将zip压缩包全部解压缩到《骑马与砍杀：战团》文件下的Modules文件夹里
+
 ## 更新日志
 ### 测试版
 * v0.1 *新加入自定义兵种和武器装备2024.8.20*
