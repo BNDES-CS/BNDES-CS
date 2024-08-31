@@ -4,7 +4,7 @@ BNDES Chemistry Society
 这是**十一实验化学社**的官方库
 
 ## 公告栏
-latest edited 2024.8.20
+latest edited 2024.8.31
 * 游戏**化学骑砍录 ~ BNDESCS in MBWB测试版v0.2**已发布
 
 ## 定位目录：
