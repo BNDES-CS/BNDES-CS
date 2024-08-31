@@ -5,7 +5,7 @@ BNDES Chemistry Society
 
 ## 公告栏
 latest edited 2024.8.20
-* 游戏**化学骑砍录 ~ BNDESCS in MBWB测试版v0.1**已发布
+* 游戏**化学骑砍录 ~ BNDESCS in MBWB测试版v0.2**已发布
 
 ## 定位目录：
 ### 游戏专区（BNDES-CS-GD）：
